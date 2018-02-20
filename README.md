@@ -1,2 +1,2 @@
 # Hello-World
-This is the firest repository in GitHub
+This is the first repository setting in GitHub
